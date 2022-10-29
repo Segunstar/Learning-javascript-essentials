@@ -9,6 +9,9 @@
   "author": "Ekundayo Isegun",
   "license": "ISC",
   "dependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "gulp-babel": "^8.0.0",
     "underscore": "^1.13.6"
   },
   "devDependencies": {
