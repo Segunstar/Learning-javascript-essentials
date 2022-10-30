@@ -2,13 +2,13 @@
 
 // es6 feature: block-scoped "let" declaration
 var sentences = [{
-  subject: "JavaScript",
-  verb: "is",
-  object: "great"
+  subject: 'JavaScript',
+  verb: 'is',
+  object: 'great'
 }, {
-  subject: "Elephants",
-  verb: "are",
-  object: "large"
+  subject: 'Elephants',
+  verb: 'are',
+  object: 'large'
 }];
 // es6 feature: object destructuring
 function say(_ref) {
